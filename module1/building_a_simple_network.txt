@@ -9,3 +9,17 @@ Having completed this module, you will be able to:
 8. List EMAC commands.
 9. Discuss Ethernet.
 10. Identify the steps needed to perform switch startup.
+
+What are batch applications?
+These are applications that require a lot of bandwidth.
+
+Design issues of a network. Basically, what could affect a network's design.
+
+1. topology
+2. Cost 
+3. Speed
+4. Availability
+5. Scalability
+6. Reliablity.
+
+Throughput easily defines bandwidth
