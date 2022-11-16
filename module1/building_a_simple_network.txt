@@ -1,0 +1,11 @@
+Having completed this module, you will be able to:
+1. Summarize the layers in the OSI module
+2. Explain the network diagram
+3. List network design issues.
+4. Define physical topology types and list the basic categories.
+5. Explain the encapsulation process
+6. Disuss the components of the LAN
+7. Describe the management of Cisco IOS configuration
+8. List EMAC commands.
+9. Discuss Ethernet.
+10. Identify the steps needed to perform switch startup.
